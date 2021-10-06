@@ -39,6 +39,15 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: right
+        style: link
+        type: Link
+      - elementId: ''
+        label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowLeft
+        iconPosition: right
         style: secondary
         type: Button
       - type: Button
